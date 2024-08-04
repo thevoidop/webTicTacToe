@@ -1,7 +1,7 @@
 # webTicTacToe
 
 A simple Tic-Tac-Toe game built with HTML, CSS, and JavaScript. Play locally in your browser!
-Play it by clicking [here.]([URL](https://thevoidop.github.io/webTicTacToe/))
+Play it by clicking [here.]([https://thevoidop.github.io/webTicTacToe/])
 
 ## Features
 
